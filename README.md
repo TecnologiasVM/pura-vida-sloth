@@ -15,7 +15,7 @@
 
 **🦥 Built by Team Pura Vida Sloth (Costa Rica)**
 
-*For the LandingAI Financial AI Hackathon 2025*
+*Finalist, LandingAI Financial AI Hackathon Championship 2025*
 
 </div>
 
@@ -23,9 +23,9 @@
 
 **Strategic market intelligence from above the ecosystem**
 
-Multi-source intelligence platform for strategic analysis of emerging technology markets through 4-layer temporal intelligence triangulation. Combines 14 independent data sources to determine technology maturity positioning and market timing indicators 12-24 months ahead of market consensus.
+Multi-source intelligence platform for strategic analysis of emerging technology markets through 4-layer temporal intelligence triangulation. Combines 14 independent data sources designed to surface technology maturity positioning and market timing indicators 12-24 months ahead of market consensus.
 
-**Built by Team Pura Vida Sloth (Costa Rica)** for the **LandingAI Financial AI Hackathon 2025** - Strategic Investment Timing Track.
+**Built by Team Pura Vida Sloth (Costa Rica)** for the **LandingAI Financial AI Hackathon 2025** - Strategic Investment Timing Track. Finalist: presented at the AWS office in New York on November 15, 2025.
 
 ---
 
@@ -57,7 +57,7 @@ Between 2010-2024, corporations and investors deployed billions into emerging te
 
 ### Multi-Layer Intelligence Triangulation
 
-This system processes 14 independent data sources across **4 temporal intelligence layers** to reveal technology maturity positioning 12-24 months ahead of market consensus.
+This system processes 14 independent data sources across **4 temporal intelligence layers** designed to reveal technology maturity positioning 12-24 months ahead of market consensus.
 
 **Key Insight**: When data layers contradict each other, that reveals actionable strategic signals about market positioning and timing. Traditional analysis (Bloomberg, CB Insights, media aggregators) uses single-layer data and misses these contradictions.
 
@@ -563,7 +563,7 @@ Render provides 750 hours/month of free hosting - perfect for demo apps!
 
 4. **Deploy!** Render builds and deploys automatically. Your API will be at:
    ```
-   https://canopy-intelligence-api.onrender.com
+   https://canopy-intelligence.onrender.com
    ```
 
 **Note**: Free tier services sleep after 15 min of inactivity. First request takes ~30 seconds to wake up. Use [UptimeRobot](https://uptimerobot.com) (free) to ping `/health` every 5 minutes to keep it warm.
@@ -586,7 +586,7 @@ Vercel offers unlimited bandwidth and instant deployments - perfect for React ap
    - **Output Directory**: `dist`
 
 4. **Add environment variables**:
-   - `VITE_API_URL`: `https://canopy-intelligence-api.onrender.com`
+   - `VITE_API_URL`: `https://canopy-intelligence.onrender.com`
    - `VITE_ENABLE_PIPELINE_EXECUTION`: `false`
    - `VITE_ENV`: `production`
 
