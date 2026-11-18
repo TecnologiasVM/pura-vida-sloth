@@ -83,7 +83,7 @@ services:
 # ==================
 #
 # After deployment, your API will be available at:
-# https://canopy-intelligence-api.onrender.com
+# https://canopy-intelligence.onrender.com
 #
 # Auto-deploy on push:
 # - Every push to 'main' branch triggers automatic deployment
